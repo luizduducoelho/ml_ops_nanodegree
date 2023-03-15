@@ -1,0 +1,3 @@
+Model versioning https://towardsdatascience.com/version-control-ml-model-4adb2db5f87c
+Guidelines for Code Reviews https://github.com/lyst/MakingLyst/tree/master/code-reviews
+Code Review Best Practices https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html
